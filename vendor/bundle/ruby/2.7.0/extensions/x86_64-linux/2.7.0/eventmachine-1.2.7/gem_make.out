@@ -1,0 +1,34 @@
+current directory: /home/markay/Computer-Systems-Information/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201205-1665-qqqq2i.rb extconf.rb
+checking for -lcrypto... no
+checking for openssl/ssl.h... no
+checking for rb_trap_immediate in ruby.h,rubysig.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_without_gvl() in ruby/thread.h... yes
+checking for rb_thread_fd_select()... yes
+checking for rb_fdset_t in ruby/intern.h... yes
+checking for rb_wait_for_single_fd()... yes
+checking for rb_enable_interrupt()... no
+checking for rb_time_new()... yes
+checking for inotify_init() in sys/inotify.h... yes
+checking for writev() in sys/uio.h... yes
+checking for pipe2() in unistd.h... yes
+checking for accept4() in sys/socket.h... yes
+checking for SOCK_CLOEXEC in sys/socket.h... yes
+checking for sys/event.h... no
+checking for epoll_create() in sys/epoll.h... yes
+checking for clock_gettime()... yes
+checking for CLOCK_MONOTONIC_RAW in time.h... yes
+checking for CLOCK_MONOTONIC in time.h... yes
+CXXFLAGS=-g -O2 -fdebug-prefix-map=/build/ruby2.7-W7xcA4/ruby2.7-2.7.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wall -Wextra -Wno-deprecated-declarations -Wno-ignored-qualifiers -Wno-unused-result -Wno-address
+creating Makefile
+
+current directory: /home/markay/Computer-Systems-Information/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext
+make "DESTDIR=" clean
+sh: 1: make: not found
+
+current directory: /home/markay/Computer-Systems-Information/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext
+make "DESTDIR="
+sh: 1: make: not found
+
+make failed, exit code 127
