@@ -1,6 +1,8 @@
-# Computer Systems Information
+**Computer Systems and Information**
 
-## The pathway to new opportunity
+Pathway to new oppotunities
+
+Below you will find links containing all of the information that I have gathered upon multiple subjects from Programming to Math and Physics. 
 
 Contact ashinhust.brass@gmail.com if you have any concerns
 
