@@ -4,7 +4,7 @@ Below you will find links containing all of the information that I have gathered
 
 Contact ashinhust.brass@gmail.com if you have any concerns
 
-[2020](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ahspares.co.uk%2Fuploaded%2F1%2Fimage%2FEmail%2F1200800%2Fmisc%2Fhappy-new-year-2020_1200x800.jpg&f=1&nofb=1)
+![2020](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ahspares.co.uk%2Fuploaded%2F1%2Fimage%2FEmail%2F1200800%2Fmisc%2Fhappy-new-year-2020_1200x800.jpg&f=1&nofb=1)
 
 ### Table of Contents
 
@@ -60,7 +60,7 @@ Basic data structures. Includes Binary Search Trees, Binary Trees and Linked Lis
 
 # About me
 
-![Profile Pic](https://media-exp1.licdn.com/dms/image/C4E03AQHRN9tg4sj0jQ/profile-displayphoto-shrink_200_200/0/1573169043936?e=1613001600&v=beta&t=YyTWS9KS_dD27ZCr3QzXKbzUI4pKE0kGJpZGztdb6Ag)
+![Profile Picture](https://i.imgur.com/ddHql0c.png)
 
 My name is Mark Ashinhust. I am a student at Arizona State University studying Computer Systems Engineering with a minor in Computational Mathematics.  
 I have a strong passion for learning new things and always want to broaden the scope of whats possible and hopefully you do too. Above are links to a lot of what I have learned and find interesting.  
