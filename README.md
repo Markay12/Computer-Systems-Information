@@ -8,7 +8,7 @@ Contact ashinhust.brass@gmail.com if you have any concerns
 
 ### Table of Contents
 
-1. [Learn how to code C++](https://learncpp.markinfo.dev/)
+1. [Learn how to code C++](https://www.learncpp.markinfo.dev/)
 2. [Data Structures](https://www.datastructures.markinfo.dev/)
 
 ## Personal Projects
