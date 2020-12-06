@@ -31,6 +31,7 @@ The best specifications regarding reasons to learn C++ are:
 
 Additional links are located within site to link down other C++ learning modules
 
+---
 
 ## Data Structures
 
@@ -38,16 +39,19 @@ Basic data structures. Includes Binary Search Trees, Binary Trees and Linked Lis
 
 [Data Structures](https://www.datastructures.markinfo.dev/)
 
+---
+
 ## Cloud Computing
 
 Different cloud computing service models including IaaS, PaaS and SaaS. Learn how to work with virtual machines and cloud machines and their benefits for you personally or your business.
 
 [Cloud Computing](https://cloud.markinfo.dev/)
 
+---
 
 # Personal Projects
 
-## Mindstorms EV3 Autonomous Robot
+## *Mindstorms EV3 Autonomous Robot*
 
 **So what are we trying to do?:**
 1. Our first goal in this project was to learn how to work as a team and accomplish the task of delegating our mission within the group
@@ -61,7 +65,7 @@ Different cloud computing service models including IaaS, PaaS and SaaS. Learn ho
 **How Did we Achieve this Goal?**
 * By working as a team and delegating our work together to ensure that the project was completed successfully and on time
 
-## Discord Bot
+## *Discord Bot*
 
 //work in progress
 
@@ -78,4 +82,4 @@ I have a strong passion for learning new things and always want to broaden the s
 Feel free to leave me some feedback:    
 Email: ashinhust.brass@gmail.com    
 Phone: +1 (623) 523-2880  
-LinkedIn: https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/  
+LinkedIn: [https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/](https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/)
