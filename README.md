@@ -25,7 +25,7 @@ The best specifications regarding reasons to learn C++ are:
 2. C++ is the most widely used programming languages in application and system programming  
 3. With various ways to code, Object Orientation is one that C++ can soar with and you along with it. Learn the implementation of the 4 rules of OOP
 
-[Learn C++](https://learncpp.markinfo.dev/)  
+[Learn C++](https://www.learncpp.markinfo.dev/)  
 
 Additional links are located within site to link down other C++ learning modules
 
@@ -34,7 +34,7 @@ Additional links are located within site to link down other C++ learning modules
 
 Basic data structures. Includes Binary Search Trees, Binary Trees and Linked Lists  
 
-[Data Structures](https://datastructures.markinfo.dev/)
+[Data Structures](https://www.datastructures.markinfo.dev/)
 
 
 # Personal Projects
