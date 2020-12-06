@@ -1,4 +1,4 @@
-## Useful Information and Notes
+## Computer Systems and Information
 
 Below you will find links containing all of the information that I have gathered upon multiple subjects from Programming to Math and Physics. 
 
