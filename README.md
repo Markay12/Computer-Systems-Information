@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Useful Information and Notes
 
-You can use the [editor on GitHub](https://github.com/Markay12/Computer-Systems-Information/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Below you will find links containing all of the information that I have gathered upon multiple subjects from Programming to Math and Physics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact ashinhust.brass@gmail.com if you have any concerns
 
-### Markdown
+### Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Learn how to code C++
+2. Data Structures
 
-```markdown
-Syntax highlighted code block
+## Personal Projects
 
-# Header 1
-## Header 2
-### Header 3
+1. Mindstorms EV3 Autonomous Driving Robot
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Learn How to code C++
 
-**Bold** and _Italic_ and `Code` text
+Learn how to code C++, a middle-level coding language. C++ can run on Linux, Mac and Windows  
+The best specifications regarding reasons to learn C++ are:  
 
-[Link](url) and ![Image](src)
-```
+1. C++ dependance on hardware and memory. Due to being a C derived language, there are a lot of opportunities for users to interact with low-level language. This can inevitably lead to better software development and optimization of programs.
+2. C++ is the most widely used programming languages in application and system programming  
+3. With various ways to code, Object Orientation is one that C++ can soar with and you along with it. Learn the implementation of the 4 rules of OOP
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Learn C++](https://learncpp.markinfo.dev/)  
 
-### Jekyll Themes
+Additional links are located within site to link down other C++ learning modules
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Markay12/Computer-Systems-Information/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Data Structures
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Basic data structures. Includes Binary Search Trees, Binary Trees and Linked Lists  
+
+![Data Structures](https://datastructures.markinfo.dev/)
+
+## 
+
+
+# Personal Projects
+
+## Mindstorms EV3 Autonomous Robot
+
+**So what are we trying to do?:**
+1. Our first goal in this project was to learn how to work as a team and accomplish the task of delegating our mission within the group
+2. After this, we had people design the robot, work through a gantt chart and learn the MATLAB Documentation
+3. Our first goal and milestone was getting the robot to work through remote control. This was not too difficult and was good for the team as we had to make small design changes as we learned how the [sensors](https://github.com/Markay12/mindstormsEV3#sensor-information) worked
+4. From here, the group made many small design changes but ultimately led towards our final design of the robot which would be used for our autonomous control of the robot
+
+**Our Goal**
+* Successfully retrieve a handicapped figure through a maze and return to the start while avoiding walls and obeying traffic laws
+
+**How Did we Achieve this Goal?**
+* By working as a team and delegating our work together to ensure that the project was completed successfully and on time
+
+## Discord Bot
