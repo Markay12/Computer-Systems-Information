@@ -4,7 +4,7 @@ Below you will find links containing all of the information that I have gathered
 
 Contact ashinhust.brass@gmail.com if you have any concerns
 
-![2020](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ahspares.co.uk%2Fuploaded%2F1%2Fimage%2FEmail%2F1200800%2Fmisc%2Fhappy-new-year-2020_1200x800.jpg&f=1&nofb=1)
+![2020](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1675146%2Fimages%2Fo-BOOKS-facebook.jpg&f=1&nofb=1)
 
 ### Table of Contents
 
