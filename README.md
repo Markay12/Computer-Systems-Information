@@ -4,14 +4,16 @@ Below you will find links containing all of the information that I have gathered
 
 Contact ashinhust.brass@gmail.com if you have any concerns
 
+[2020](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ahspares.co.uk%2Fuploaded%2F1%2Fimage%2FEmail%2F1200800%2Fmisc%2Fhappy-new-year-2020_1200x800.jpg&f=1&nofb=1)
+
 ### Table of Contents
 
-1. Learn how to code C++
-2. Data Structures
+1. [Learn how to code C++](https://learncpp.markinfo.dev/)
+2. [Data Structures](https://www.datastructures.markinfo.dev/)
 
 ## Personal Projects
 
-1. Mindstorms EV3 Autonomous Driving Robot
+1. [Mindstorms EV3 Autonomous Driving Robot](https://www.mindstorm.markinfo.dev/)
 
 
 ## Learn How to code C++
@@ -23,7 +25,7 @@ The best specifications regarding reasons to learn C++ are:
 2. C++ is the most widely used programming languages in application and system programming  
 3. With various ways to code, Object Orientation is one that C++ can soar with and you along with it. Learn the implementation of the 4 rules of OOP
 
-![Learn C++](https://learncpp.markinfo.dev/)  
+[Learn C++](https://learncpp.markinfo.dev/)  
 
 Additional links are located within site to link down other C++ learning modules
 
@@ -32,9 +34,7 @@ Additional links are located within site to link down other C++ learning modules
 
 Basic data structures. Includes Binary Search Trees, Binary Trees and Linked Lists  
 
-![Data Structures](https://datastructures.markinfo.dev/)
-
-## 
+[Data Structures](https://datastructures.markinfo.dev/)
 
 
 # Personal Projects
@@ -54,3 +54,18 @@ Basic data structures. Includes Binary Search Trees, Binary Trees and Linked Lis
 * By working as a team and delegating our work together to ensure that the project was completed successfully and on time
 
 ## Discord Bot
+
+//work in progress
+
+
+# About me
+
+![Profile Pic](https://media-exp1.licdn.com/dms/image/C4E03AQHRN9tg4sj0jQ/profile-displayphoto-shrink_200_200/0/1573169043936?e=1613001600&v=beta&t=YyTWS9KS_dD27ZCr3QzXKbzUI4pKE0kGJpZGztdb6Ag)
+
+My name is Mark Ashinhust. I am a student at Arizona State University studying Computer Systems Engineering with a minor in Computational Mathematics.  
+I have a strong passion for learning new things and always want to broaden the scope of whats possible and hopefully you do too. Above are links to a lot of what I have learned and find interesting.  
+
+Feel free to leave me some feedback:    
+Email: ashinhust.brass@gmail.com    
+Phone: +1 (623) 523-2880  
+LinkedIn: https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/  
