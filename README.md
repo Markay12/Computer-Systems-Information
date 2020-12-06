@@ -1,4 +1,4 @@
-Computer Systems and Information
+# Computer Systems Information
 
 Below you will find links containing all of the information that I have gathered upon multiple subjects from Programming to Math and Physics. 
 
