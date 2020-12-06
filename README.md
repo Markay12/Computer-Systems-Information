@@ -6,7 +6,7 @@ Contact ashinhust.brass@gmail.com if you have any concerns
 
 ![2020](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1675146%2Fimages%2Fo-BOOKS-facebook.jpg&f=1&nofb=1)
 
-### Table of Contents
+# Table of Contents
 
 1. [Learn how to code C++](https://www.learncpp.markinfo.dev/)
 2. [Data Structures](https://www.datastructures.markinfo.dev/)
@@ -15,6 +15,8 @@ Contact ashinhust.brass@gmail.com if you have any concerns
 
 1. [Mindstorms EV3 Autonomous Driving Robot](https://www.mindstorm.markinfo.dev/)
 
+---
+---
 
 ## Learn How to code C++
 
